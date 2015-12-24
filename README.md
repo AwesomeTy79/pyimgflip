@@ -1,5 +1,5 @@
 # pyimgflip
-pyimgflip provides an easyPython wrapper for Imgflip's meme generator API.
+Pyimgflip provides an easy Python wrapper for Imgflip's meme generator API.
 
 See https://api.imgflip.com for more information.
 
