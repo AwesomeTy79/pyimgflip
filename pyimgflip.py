@@ -4,6 +4,8 @@ __author__ = 'Corey Hoard'
 __version__ = '1.0.0'
 __license__ = 'MIT'
 
+__all__ = ['Imgflip', 'Meme']
+
 class Imgflip(object):
     """
     Access the Imgflip RESTful JSON API.
